@@ -2,6 +2,8 @@
 
 The code will run in pycharm and vs code.
 
+# Explanation:
+
 ## **Importing necessary libraries and downloading the movie reviews dataset**
 
 The code starts by importing the necessary libraries, including NLTK (Natural Language Toolkit) for NLP tasks, sklearn for machine learning, and tkinter for building a graphical user interface (GUI). The nltk.download('movie_reviews') line downloads the movie reviews dataset, which is a collection of movie reviews labeled as positive or negative.
