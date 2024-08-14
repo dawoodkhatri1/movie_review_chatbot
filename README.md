@@ -39,3 +39,7 @@ The GUI event loop is started using the mainloop method, which waits for user in
 The output will be like this:
 
 ![Capture](https://github.com/user-attachments/assets/3037ad25-1cc8-4026-ab3a-7a62f980f560)
+
+## License
+
+[MIT License](LICENSE)
